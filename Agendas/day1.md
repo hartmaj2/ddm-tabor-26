@@ -111,3 +111,17 @@
   - 2. motýl začne mávat křídly automaticky po kliknutí na vlaječku
   - 3. stisknutím mezerníku udělá kotoul na místě ve vzduchu
   - 4. po kliknutí na motýla motýl problikne a na chvilku se zvětší
+
+## 7. Úhly
+
+- motivace
+  - jakým úhlem vystřelit balón, aby doletěl co nejdál (mám danou neměnnou sílu střely)
+    - [simulace](https://mechsimulator.com/tools/projectile-motion/)
+  - architekt stavící dům (okraje)
+    - [oborahvezda](https://www.google.com/search?sca_esv=92eacd4337d5b599&rlz=1C5CHFA_enCZ1063CZ1063&sxsrf=APpeQnvZwc46w2h2a1U7Pv9OOFQwReE57w:1786947883850&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpDyhqhJz-EL1EohYDSUG6u_7TBQFaykKSCI8ECDH-29gr0f9f3cZ1Yql2oc9vrmnG89ZnGbRsEj4xcaVT1fZIuaEb_qM&q=obora+hv%C4%9Bzda+p%C5%AFdorys&sa=X&ved=2ahUKEwi0g-XOg6eWAxV1nf0HHTxKNaMQtKgLegQIFRAB&biw=1440&bih=778&dpr=2#sv=CAMSVhoyKhBlLWZsREpkcXB1VDROVHlNMg5mbERKZHFwdVQ0TlR5TToOX2Rob3kyM2p1dXhESE0gBCocCgZtb3NhaWMSEGUtZmxESmRxcHVUNE5UeU0YADABGAcgh7rqjQhKCBABGAEgASgB)
+
+- dovysvětlení a ověření, že chápou 
+  - [úhlynewc](https://scratch.mit.edu/projects/1206915184/)
+
+- soutěž
+  - [úhlychallenge](https://scratch.mit.edu/projects/1206460691/)

@@ -10,7 +10,12 @@
 
 # Sedící hry
 
-
 1. město, země, jméno, zvíře, věc
 
-2. 
+2. řešení hádanek
+
+# Tvoření
+
+1. Hrátky s elektrem
+
+2. Šifrovací kolečka

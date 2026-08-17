@@ -37,3 +37,11 @@
 1. Hrátky s elektrem
 
 2. Šifrovací kolečka
+
+# Když už fakt chtějí PC
+
+1. Open guesser
+[open guesser](https://openguessr.com/)
+
+2. Wiki race
+[wiki race](https://wiki-race.com/)

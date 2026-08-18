@@ -38,10 +38,24 @@
 
 2. Šifrovací kolečka
 
+# Hry na výlet
+
+1. vyjmenováváme věci, které vidíme na nějaké písmenko ✅
+- je možné postupně projít celou abecedu (nezapomeň na ch,č,ď,ř,š,ť,ž)
+
+2. povodeň, nálet, bomba ✅
+- povodeň -> všichni na vyvýšené místo
+- nálet -> všichni z dohledu vedoucího
+- bomba -> všichni co nejrychleji dřepnout/lehnout
+
+3. soutěž o co nejlepší vtip ✅
+
+4. najít co nejvíce různých zvířat
+
 # Když už fakt chtějí PC
 
 1. Open guesser
 [open guesser](https://openguessr.com/)
 
-2. Wiki race
+1. Wiki race
 [wiki race](https://wiki-race.com/)

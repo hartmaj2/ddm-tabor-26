@@ -26,3 +26,5 @@
   - lépe definovat, co je platné slovo (podstatné jméno a něco hmotného (je to vidět, nebo si na to můžeme sáhnout))
 
 - vykládání vtipů bylo dobré, ale je potřeba, aby říkali krátké vtipy a hlavně si je pamatovali
+
+- když dělají něco na mém počítači, tak je mate moje ergonomická myš

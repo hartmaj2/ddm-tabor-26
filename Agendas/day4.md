@@ -35,8 +35,13 @@
 # Začínáme pracovat na bomb avoiderovi ✅
 
 - [bomb avoider](https://scratch.mit.edu/projects/1207521759)
-  - proměnné
-  - klony
+  - co je lehčí
+    - pohyb kocoura do stran 
+    - padání pizzy
+  - těžší
+    - počítání skóre (proměnné)
+    - pizza objevit se nahoře po spadnutí dolů (souřadnice)
+    - střelba nahoru (klony)
 
 TODO: detailně si připravit toto
 

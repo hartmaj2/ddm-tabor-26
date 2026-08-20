@@ -18,6 +18,8 @@
 
 7. lego kopírování předlohy
 
+8. Stavění domečků v lese
+
 # Sedící hry
 
 1. město, země, jméno, zvíře, věc

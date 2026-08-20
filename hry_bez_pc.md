@@ -6,7 +6,7 @@
 2. Proplétání rukou
 - zamotáme se dohromady a pak se musíme rozplést
 
-3. Běhací lodě
+3. Běhací lodě ✅
 
 4. Ninja
 - lze přidat health packy a šíp (míč) na házení
@@ -22,7 +22,7 @@
 
 # Sedící hry
 
-1. město, země, jméno, zvíře, věc
+1. město, země, jméno, zvíře, věc ✅
 
 2. řešení hádanek
 

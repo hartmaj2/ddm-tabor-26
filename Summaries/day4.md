@@ -1,4 +1,4 @@
-# Shrnutí dne 19.8.2026
+# Shrnutí dne 20.8.2026
 
 ## Náplň dne
 

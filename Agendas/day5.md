@@ -1,4 +1,4 @@
-# Příprava na 20.8.2026
+# Příprava na 21.8.2026
 
 ❌ - bez počítačů
 ✅ - s počítači

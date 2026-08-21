@@ -6,11 +6,13 @@
 - hádanka: brouk zmatlík
 - pracujeme na programu pizza
 (v průběhu nám vypadl internet)
+- vysvětluji směry pomocí světových stran
 
 2. venkovní program
 - stavíme domečky a předvádíme si je navzájem
 
 3. odpolední programování
+- vysvětluji souřadnice 
 - nastavujeme, aby se pizza po pádu objevila na nové náhodné pozici
 - přidáváme proměnnou na počítání skóre
 - přidáváme vítěznou obrazovku, když je skóre dostatečně vysoké

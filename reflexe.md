@@ -33,6 +33,8 @@ V programování jsme toho zdaleka nestihli tolik co minule.
 
 ## Negative
 
+- NEFUNGOVALO VYSVĚTLOVÁNÍ VŠEM PLOŠNĚ PŘED TABULÍ, LÉPE SI ZÍSKAT POZORNOST A DĚLAT TO PLOŠNĚ
+
 - zdůraznit, že než se mě na něco zeptají, tak by se měli zamyslet a zkusit na to přijít sami
   - že není problém řešit věci metodou pokus omyl (máme undo)
 
